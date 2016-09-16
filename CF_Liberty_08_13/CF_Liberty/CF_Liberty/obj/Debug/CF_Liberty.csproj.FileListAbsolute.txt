@@ -1,0 +1,92 @@
+c:\users\max\documents\visual studio 2012\Projects\CF_Liberty\CF_Liberty\bin\CF_Liberty.dll
+c:\users\max\documents\visual studio 2012\Projects\CF_Liberty\CF_Liberty\bin\CF_Liberty.pdb
+c:\users\max\documents\visual studio 2012\Projects\CF_Liberty\CF_Liberty\bin\EntityFramework.dll
+c:\users\max\documents\visual studio 2012\Projects\CF_Liberty\CF_Liberty\bin\Microsoft.Web.Infrastructure.dll
+c:\users\max\documents\visual studio 2012\Projects\CF_Liberty\CF_Liberty\bin\System.Web.Helpers.dll
+c:\users\max\documents\visual studio 2012\Projects\CF_Liberty\CF_Liberty\bin\System.Web.Mvc.dll
+c:\users\max\documents\visual studio 2012\Projects\CF_Liberty\CF_Liberty\bin\System.Web.Providers.dll
+c:\users\max\documents\visual studio 2012\Projects\CF_Liberty\CF_Liberty\bin\System.Web.Razor.dll
+c:\users\max\documents\visual studio 2012\Projects\CF_Liberty\CF_Liberty\bin\System.Web.WebPages.Deployment.dll
+c:\users\max\documents\visual studio 2012\Projects\CF_Liberty\CF_Liberty\bin\System.Web.WebPages.dll
+c:\users\max\documents\visual studio 2012\Projects\CF_Liberty\CF_Liberty\bin\System.Web.WebPages.Razor.dll
+c:\users\max\documents\visual studio 2012\Projects\CF_Liberty\CF_Liberty\bin\EntityFramework.xml
+c:\users\max\documents\visual studio 2012\Projects\CF_Liberty\CF_Liberty\bin\System.Web.Helpers.xml
+c:\users\max\documents\visual studio 2012\Projects\CF_Liberty\CF_Liberty\bin\System.Web.Mvc.xml
+c:\users\max\documents\visual studio 2012\Projects\CF_Liberty\CF_Liberty\bin\System.Web.Razor.xml
+c:\users\max\documents\visual studio 2012\Projects\CF_Liberty\CF_Liberty\bin\System.Web.WebPages.xml
+c:\users\max\documents\visual studio 2012\Projects\CF_Liberty\CF_Liberty\bin\System.Web.WebPages.Deployment.xml
+c:\users\max\documents\visual studio 2012\Projects\CF_Liberty\CF_Liberty\bin\System.Web.WebPages.Razor.xml
+c:\users\max\documents\visual studio 2012\Projects\CF_Liberty\CF_Liberty\bin\ru\EntityFramework.resources.dll
+c:\users\max\documents\visual studio 2012\Projects\CF_Liberty\CF_Liberty\bin\ru\System.Web.Providers.resources.dll
+c:\users\max\documents\visual studio 2012\Projects\CF_Liberty\CF_Liberty\obj\Debug\CF_Liberty.dll
+c:\users\max\documents\visual studio 2012\Projects\CF_Liberty\CF_Liberty\obj\Debug\CF_Liberty.pdb
+c:\users\max\documents\visual studio 2012\Projects\CF_Liberty\CF_Liberty\obj\Debug\CF_Liberty.csprojResolveAssemblyReference.cache
+G:\CF_Liberty\CF_Liberty\bin\CF_Liberty.dll
+G:\CF_Liberty\CF_Liberty\bin\CF_Liberty.pdb
+G:\CF_Liberty\CF_Liberty\bin\EntityFramework.dll
+G:\CF_Liberty\CF_Liberty\bin\Microsoft.Web.Infrastructure.dll
+G:\CF_Liberty\CF_Liberty\bin\System.Web.Helpers.dll
+G:\CF_Liberty\CF_Liberty\bin\System.Web.Mvc.dll
+G:\CF_Liberty\CF_Liberty\bin\System.Web.Providers.dll
+G:\CF_Liberty\CF_Liberty\bin\System.Web.Razor.dll
+G:\CF_Liberty\CF_Liberty\bin\System.Web.WebPages.Deployment.dll
+G:\CF_Liberty\CF_Liberty\bin\System.Web.WebPages.dll
+G:\CF_Liberty\CF_Liberty\bin\System.Web.WebPages.Razor.dll
+G:\CF_Liberty\CF_Liberty\bin\EntityFramework.xml
+G:\CF_Liberty\CF_Liberty\bin\System.Web.Helpers.xml
+G:\CF_Liberty\CF_Liberty\bin\System.Web.Mvc.xml
+G:\CF_Liberty\CF_Liberty\bin\System.Web.Razor.xml
+G:\CF_Liberty\CF_Liberty\bin\System.Web.WebPages.xml
+G:\CF_Liberty\CF_Liberty\bin\System.Web.WebPages.Deployment.xml
+G:\CF_Liberty\CF_Liberty\bin\System.Web.WebPages.Razor.xml
+G:\CF_Liberty\CF_Liberty\bin\ru\EntityFramework.resources.dll
+G:\CF_Liberty\CF_Liberty\bin\ru\System.Web.Providers.resources.dll
+G:\CF_Liberty\CF_Liberty\obj\Debug\CF_Liberty.csprojResolveAssemblyReference.cache
+G:\CF_Liberty\CF_Liberty\obj\Debug\CF_Liberty.dll
+G:\CF_Liberty\CF_Liberty\obj\Debug\CF_Liberty.pdb
+D:\m_rotay\CF_Liberty\CF_Liberty\bin\CF_Liberty.dll
+D:\m_rotay\CF_Liberty\CF_Liberty\bin\CF_Liberty.pdb
+D:\m_rotay\CF_Liberty\CF_Liberty\bin\EntityFramework.dll
+D:\m_rotay\CF_Liberty\CF_Liberty\bin\Microsoft.Web.Infrastructure.dll
+D:\m_rotay\CF_Liberty\CF_Liberty\bin\System.Web.Helpers.dll
+D:\m_rotay\CF_Liberty\CF_Liberty\bin\System.Web.Mvc.dll
+D:\m_rotay\CF_Liberty\CF_Liberty\bin\System.Web.Providers.dll
+D:\m_rotay\CF_Liberty\CF_Liberty\bin\System.Web.Razor.dll
+D:\m_rotay\CF_Liberty\CF_Liberty\bin\System.Web.WebPages.Deployment.dll
+D:\m_rotay\CF_Liberty\CF_Liberty\bin\System.Web.WebPages.dll
+D:\m_rotay\CF_Liberty\CF_Liberty\bin\System.Web.WebPages.Razor.dll
+D:\m_rotay\CF_Liberty\CF_Liberty\bin\EntityFramework.xml
+D:\m_rotay\CF_Liberty\CF_Liberty\bin\System.Web.Helpers.xml
+D:\m_rotay\CF_Liberty\CF_Liberty\bin\System.Web.Mvc.xml
+D:\m_rotay\CF_Liberty\CF_Liberty\bin\System.Web.Razor.xml
+D:\m_rotay\CF_Liberty\CF_Liberty\bin\System.Web.WebPages.xml
+D:\m_rotay\CF_Liberty\CF_Liberty\bin\System.Web.WebPages.Deployment.xml
+D:\m_rotay\CF_Liberty\CF_Liberty\bin\System.Web.WebPages.Razor.xml
+D:\m_rotay\CF_Liberty\CF_Liberty\bin\ru\EntityFramework.resources.dll
+D:\m_rotay\CF_Liberty\CF_Liberty\bin\ru\System.Web.Providers.resources.dll
+D:\m_rotay\CF_Liberty\CF_Liberty\obj\Debug\CF_Liberty.csprojResolveAssemblyReference.cache
+D:\m_rotay\CF_Liberty\CF_Liberty\obj\Debug\CF_Liberty.dll
+D:\m_rotay\CF_Liberty\CF_Liberty\obj\Debug\CF_Liberty.pdb
+f:\CyberBionic Systematics\CF_Liberty_16.08.13\CF_Liberty\CF_Liberty\bin\CF_Liberty.dll
+f:\CyberBionic Systematics\CF_Liberty_16.08.13\CF_Liberty\CF_Liberty\bin\CF_Liberty.pdb
+f:\CyberBionic Systematics\CF_Liberty_16.08.13\CF_Liberty\CF_Liberty\bin\EntityFramework.dll
+f:\CyberBionic Systematics\CF_Liberty_16.08.13\CF_Liberty\CF_Liberty\bin\Microsoft.Web.Infrastructure.dll
+f:\CyberBionic Systematics\CF_Liberty_16.08.13\CF_Liberty\CF_Liberty\bin\System.Web.Helpers.dll
+f:\CyberBionic Systematics\CF_Liberty_16.08.13\CF_Liberty\CF_Liberty\bin\System.Web.Mvc.dll
+f:\CyberBionic Systematics\CF_Liberty_16.08.13\CF_Liberty\CF_Liberty\bin\System.Web.Providers.dll
+f:\CyberBionic Systematics\CF_Liberty_16.08.13\CF_Liberty\CF_Liberty\bin\System.Web.Razor.dll
+f:\CyberBionic Systematics\CF_Liberty_16.08.13\CF_Liberty\CF_Liberty\bin\System.Web.WebPages.Deployment.dll
+f:\CyberBionic Systematics\CF_Liberty_16.08.13\CF_Liberty\CF_Liberty\bin\System.Web.WebPages.dll
+f:\CyberBionic Systematics\CF_Liberty_16.08.13\CF_Liberty\CF_Liberty\bin\System.Web.WebPages.Razor.dll
+f:\CyberBionic Systematics\CF_Liberty_16.08.13\CF_Liberty\CF_Liberty\bin\EntityFramework.xml
+f:\CyberBionic Systematics\CF_Liberty_16.08.13\CF_Liberty\CF_Liberty\bin\System.Web.Helpers.xml
+f:\CyberBionic Systematics\CF_Liberty_16.08.13\CF_Liberty\CF_Liberty\bin\System.Web.Mvc.xml
+f:\CyberBionic Systematics\CF_Liberty_16.08.13\CF_Liberty\CF_Liberty\bin\System.Web.Razor.xml
+f:\CyberBionic Systematics\CF_Liberty_16.08.13\CF_Liberty\CF_Liberty\bin\System.Web.WebPages.xml
+f:\CyberBionic Systematics\CF_Liberty_16.08.13\CF_Liberty\CF_Liberty\bin\System.Web.WebPages.Deployment.xml
+f:\CyberBionic Systematics\CF_Liberty_16.08.13\CF_Liberty\CF_Liberty\bin\System.Web.WebPages.Razor.xml
+f:\CyberBionic Systematics\CF_Liberty_16.08.13\CF_Liberty\CF_Liberty\bin\ru\EntityFramework.resources.dll
+f:\CyberBionic Systematics\CF_Liberty_16.08.13\CF_Liberty\CF_Liberty\bin\ru\System.Web.Providers.resources.dll
+f:\CyberBionic Systematics\CF_Liberty_16.08.13\CF_Liberty\CF_Liberty\obj\Debug\CF_Liberty.csprojResolveAssemblyReference.cache
+f:\CyberBionic Systematics\CF_Liberty_16.08.13\CF_Liberty\CF_Liberty\obj\Debug\CF_Liberty.dll
+f:\CyberBionic Systematics\CF_Liberty_16.08.13\CF_Liberty\CF_Liberty\obj\Debug\CF_Liberty.pdb

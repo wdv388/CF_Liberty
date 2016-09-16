@@ -1,0 +1,35 @@
+﻿@model CF_Liberty.Models.Book
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>Book</legend>
+
+    <div class="display-label">Title</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Title)
+    </div>
+
+    <div class="display-label">Genre</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Genre)
+    </div>
+
+    <div class="display-label">Nuber_of_Page</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Nuber_of_Page)
+    </div>
+
+    <div class="display-label">author</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.author.FirstName)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
